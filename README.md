@@ -3,5 +3,4 @@
 
 ##Here I share my printscreen
 
-![screen](img/screenshot.jpg
-)
+![screen](img/Screenshot.png)
