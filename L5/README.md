@@ -13,8 +13,20 @@ two classes of errors:
 	- Self selection bias
 	- Publication Bias
 
+Sulution: 
+- Good exmerimental design
+- Calibration (to access systematics induced by
+	your measurements)
+- Simulation (to access the systematics induced by your analysis)
 
-### Statistics errors
+### Stochastic & Random error
+- Sensitivity error (Repeated measurments bootstrap)
+
+- Stochastic processes
+	Poisson proceses, described by Poisson distribution // lambda.
+ 
+	- Accuracy (accurate representation)
+	- Precision (small sample deviation)
 
 
 
