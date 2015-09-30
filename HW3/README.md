@@ -3,6 +3,8 @@ Homework 3: Distributions
 30.09.2015 | Philipp Kats
 
 
+
+
 ##Dependencies
 
 - pandas
@@ -11,6 +13,8 @@ Homework 3: Distributions
 - Json
 - Urllib
 - I am using Federika's plotting preset, hosted on my other repo
+
+## Assignment 1
 
 [NOTEBOOK](assignment1_distributions_instructions.ipynb)
 
@@ -21,6 +25,10 @@ after than we plot median versus sample size for each sample,
 and histogram of all medians. Idea behind is (I am guessing) is to present us to central limit theorem (CLT).
 
 Common distr. charecteristics defines in **MyMEAN** and **MySD** variables.
+
+## Assignment 2
+
+[NOTEBOOK](a2.ipynb)
 
 
 
