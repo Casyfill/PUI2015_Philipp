@@ -20,5 +20,7 @@ around same mean and with same st.d, 100 samples for each.
 after than we plot median versus sample size for each sample,
 and histogram of all medians. Idea behind is (I am guessing) is to present us to central limit theorem (CLT).
 
+Common distr. charecteristics defines in **MyMEAN** and **MySD** variables.
+
 
 
