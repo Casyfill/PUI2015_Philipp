@@ -1,2 +1,22 @@
 
 *.csv
+
+*.dbf
+
+*.prj
+
+*.sbx
+
+*.sbn
+
+*.shp
+
+*.xml
+
+*.shx
+
+*.atx
+
+*.pdf
+
+*.zip
