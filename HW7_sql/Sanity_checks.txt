@@ -2,6 +2,4 @@ SANITY CHECK ANSWER 1:
 318, E 43 St & Vanderbilt Ave, 477, W 41 St & 8 Ave, 61
 
 SANITY CHECK ANSWER 2:
-284, Greenwich Ave & 8 Ave, 11
-
-
+435, W 21 St & 6 Ave, 63

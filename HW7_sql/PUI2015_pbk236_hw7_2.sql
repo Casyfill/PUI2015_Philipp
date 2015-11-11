@@ -1,8 +1,7 @@
+
 SELECT
 	start_station_id,
 	start_station_name,
-	end_station_id,
-	end_station_name,
 	CDB_TransformToWebmercator(CDB_LatLng(
 	start_station_latitude,
 	start_station_longitude)
@@ -23,8 +22,6 @@ extract(DOW FROM starttime) IN (0,6)
 GROUP BY
 	start_station_id,
 	start_station_name,
-	end_station_id,
-	end_station_name,
 	start_station_latitude,
 	start_station_longitude
 ORDER BY trip_count DESC
