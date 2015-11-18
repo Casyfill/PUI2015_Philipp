@@ -13,7 +13,3 @@ GROUP BY
 	end_station_name
 ORDER BY trip_count DESC
 LIMIT 5
-
-
-##dont need
-##WHERE start_station_id = end_station_id
