@@ -3,7 +3,7 @@ HW8 README
 
 # PEER REVIEW
 
-#### Plot 1 : Average income by gender
+#### Plot 1, tz869: Average income by gender
 
 ![plot1_tz869](https://raw.githubusercontent.com/Tengf/PUI2015_tzheng/master/HW8/hw8.png)
 [link](https://github.com/Tengf/PUI2015_tzheng/blob/master/HW8/hw8.png
@@ -35,7 +35,7 @@ One option to consider is to remove colored points from the legend and adding th
 Despite some visual flaws, plot appears to be technically correct and honest.
 
 
-#### Plot 2 : Trip duration of citibike users per gender and day of the week
+#### Plot 2, dm3805: Trip duration of citibike users per gender and day of the week
 
 ![Trip duration of citibike users per gender and day of the week](diogo_plot.png)
 
@@ -54,7 +54,7 @@ Plot articulates the difference between duration of trips for men and  women cyc
 
   Anyway, plot appears to be clean, readable and honest.
 
-#### plot3: Total Building energy use in 2013 vs number of units in Building, Manhattan.
+#### Plot3, dc3445: Total Building energy use in 2013 vs number of units in Building, Manhattan.
 ![energy plot](https://raw.githubusercontent.com/diggity2036/PUI2015_dcrull/master/HW8/energy_plot.png)
 
 [link](https://github.com/diggity2036/PUI2015_dcrull/tree/master/HW8)
